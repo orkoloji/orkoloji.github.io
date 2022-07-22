@@ -1,2 +1,2 @@
-# orkoloji.githup.io
+# orkoloji.github.io
 Bir AstRoFizik ÇIkmaZI
