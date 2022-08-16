@@ -1,2 +1,3 @@
-# orkoloji.github.io
-Bir AstRoFizik ÇIkmaZI
+# Orkoloji
+
+Bir Astrofizik Çıkmazı
